@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: پاکستان کی سب سے بڑی قومی تنظیم
       color: text-primary
       type: Badge
     elementId: ''
