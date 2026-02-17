@@ -14,7 +14,7 @@ sections:
       قانونِ مفرد اعضاء (طبِ پاکستانی) کو سائنسی بنیادوں پر رائج کرنا اور اطباء
       و علماء کے حقوق کا تحفظ ہے۔
     actions:
-      - label: Get started
+      - label: رکنیت حاصل کریں
         altText: ''
         url: /
         showIcon: false
