@@ -23,7 +23,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: ہمارا منشور دیکھیں
         altText: ''
         url: /
         showIcon: true
