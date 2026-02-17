@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      جمعیت اطباء علماء پاکستان حکیم علماء کی سب سے بڑی قومی تنظیم ہے، جو طب اور
+      دینی علم کے امتزاج اور اس کی ترقی اور ترویج کے لیے کام کرتی ہے۔
     actions:
       - label: Get started
         altText: ''
